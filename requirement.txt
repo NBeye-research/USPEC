@@ -1,0 +1,5 @@
+scikit-learn
+tqdm
+numpy==1.23.3
+timm==0.3.2
+tensorboard
