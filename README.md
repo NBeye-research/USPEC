@@ -1,4 +1,4 @@
-# **USPEC - A Domain-Optimized Large Pretrained Model Enhancing Performance in UWF-Based Ophthalmic Tasks.**
+# **USPEC - A Large Domain-Optimized Pretrained Model Enhancing Performance in UWF-Based Ophthalmic Tasks.**
 
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ## Introduction
 
-This repository contains the source code for developing the UWF-specific large pretrained model (USPEC) and for finetuning the USPEC-enhanced model. The USPEC is pre-trained on 875,947 unlabeled UWF images from 5 independent clinical centers using Masked Autoencoders([MAE](https://github.com/facebookresearch/mae)), and it has demonstrated efficacy across multiple UWF-based ophthalmic tasks. For the original pretraining code of Masked Autoencoders, please refer to [MAE](https://github.com/facebookresearch/mae).
+This repository contains the source code for developing the large UWF-specific pretrained model (USPEC) and for finetuning the USPEC-enhanced model. The USPEC is pre-trained on 875,947 unlabeled UWF images from 5 independent clinical centers using Masked Autoencoders([MAE](https://github.com/facebookresearch/mae)), and it has demonstrated efficacy across multiple UWF-based ophthalmic tasks. For the original pretraining code of Masked Autoencoders, please refer to [MAE](https://github.com/facebookresearch/mae).
 
 
 ## Prerequisities & Installation
